@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/UOH-Timetable/',
-  outputDir: 'docs'
+  publicPath: './',
+  outputDir: 'docs/'
 }
