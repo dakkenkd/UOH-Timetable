@@ -12,47 +12,47 @@
 
       <tbody>
         <td>1</td>
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=true URL="https://twitter.com/home?lang=ja" name="English for Specific Purposes Ⅱ" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/153060.pdf" name="最適化理論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
       </tbody>
 
       <tbody>
         <td>2</td>
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151240.pdf" name="情報セキュリティ" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151280.pdf" name="計算理論" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/152060.pdf" name="政策データ分析" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="山本ゼミ" />
       </tbody>
 
       <tbody>
         <td>3</td>
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/153080.pdf" name="グラフ理論" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151300.pdf" name="情報メディア論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="玉置ゼミ" />
       </tbody>
 
       <tbody>
         <td>4</td>
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151200.pdf" name="システム管理" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151260.pdf" name="ソフトウェア開発論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="川嶋ゼミ" />
       </tbody>
 
       <tbody>
         <td>5</td>
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
-        <Lecture URL="https://twitter.com/home?lang=ja" name="Twitter概論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151220.pdf" name="コンピュータネットワーク" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
       </tbody>
     </table>
   </div>

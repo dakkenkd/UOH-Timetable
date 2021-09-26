@@ -1,5 +1,5 @@
 <template>
-  <td><a :href="URL">{{name}}</a></td>
+  <td><a :href="URL" :style="isTaken">{{name}}</a></td>
 </template>
 
 <script>
@@ -8,6 +8,16 @@ export default {
   props: {
     URL: String,
     name: String,
+    flag: String
+  },
+  computed: {
+    isTaken() {
+      if (this.flag == "true") {
+        return "color: red"
+      } else {
+        return "color: blue"
+      }
+    }
   }
 }
 </script>
