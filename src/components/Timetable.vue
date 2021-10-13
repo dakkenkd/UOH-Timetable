@@ -3,7 +3,7 @@
     <table>
       <thead>
         <th class="num"></th>
-        <th class="day">Monday</th>
+        <th class="day">Monda<a href="https://www.amazon.co.jp/" style="color: white">y</a></th>
         <th class="day">Tuesday</th>
         <th class="day">Wednesday</th>
         <th class="day">Thursday</th>
