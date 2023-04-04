@@ -12,47 +12,47 @@
 
       <tbody>
         <td>1</td>
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=true URL="https://twitter.com/home?lang=ja" name="English for Specific Purposes Ⅱ" />
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/153060.pdf" name="最適化理論" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMS000101.pdf" name="システムセキュリティ特論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
       </tbody>
 
       <tbody>
         <td>2</td>
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151240.pdf" name="情報セキュリティ" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151280.pdf" name="計算理論" />
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/152060.pdf" name="政策データ分析" />
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="山本ゼミ" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMD000401.pdf" name="機械学習特論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMD000301.pdf" name="情報マネジメント特論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMD000701.pdf" name="オペレーションズリサーチ特論" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMB000602.pdf" name="計算科学演習" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMB000501.pdf" name="計算科学概論" />
       </tbody>
 
       <tbody>
         <td>3</td>
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/153080.pdf" name="グラフ理論" />
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151300.pdf" name="情報メディア論" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="玉置ゼミ" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMB000102.pdf" name="情報科学概論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMS000401.pdf" name="ネットワークセキュリティ特論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
       </tbody>
 
       <tbody>
         <td>4</td>
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151200.pdf" name="システム管理" />
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151260.pdf" name="ソフトウェア開発論" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="川嶋ゼミ" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMB000902.pdf" name="プログラミング演習" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMB000202.pdf" name="情報科学演習" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMB000801.pdf" name="情報セキュリティ科学概論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
       </tbody>
 
       <tbody>
         <td>5</td>
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/151220.pdf" name="コンピュータネットワーク" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
-        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/undergraduate/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=true URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/pdf/ISMB000301.pdf" name="データ科学概論" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
+        <Lecture flag=false URL="https://www.u-hyogo.ac.jp/campuslife/syllabus/graduate/in-jyouhou/index.html" name="なし" />
       </tbody>
     </table>
   </div>
